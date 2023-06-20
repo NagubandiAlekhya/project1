@@ -1,6 +1,6 @@
 ✨ Glory Luxe ✨
 
-This is a web based application developed for health related based website in India
+This is a web based application developed for health related based website in India.
 
 This web based health application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime and Github.
 
@@ -41,12 +41,17 @@ Contact us -
 ![Screenshot (1164)](https://github.com/NagubandiAlekhya/project1/assets/107664623/19bb8440-cef9-456e-932a-dec988e386e0)
 
 Health Bot
+
 ![Screenshot (1165)](https://github.com/NagubandiAlekhya/project1/assets/107664623/2c488e96-9ba3-47d3-a97c-375047213b6e)
 
 Tech Stack 💻
 
 Azure(Hosting)
+
 HTML
+
 CSS
+
 Bootstrap
+
 JavaScript
